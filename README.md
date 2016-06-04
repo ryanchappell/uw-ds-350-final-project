@@ -1,5 +1,5 @@
 # UW Data Science 350 final project
-For my final project, I decided grab Reddit post data from the front page and on the new page and analyze the results.
+For my final project, I decided to grab Reddit posts from the front page and on the new page and apply some analyses to the results. 
 
 ## Project Write-up
 The final write-up containing the project summary and data analyses.
@@ -22,7 +22,7 @@ These are utilities used by analysis files.
 
 
 ## Data Files
-This zip contains four csv files (two for the Reddit front page and two for the new page). It is 135MB uncompressed (a slice of the original ~26GB data set).
+This zip contains four csv files (two for the Reddit front page and two for the new page). It is 135MB uncompressed. This is a slice of the original ~26GB data set which was made up of Reddit front and new page posts taken at 1 minute intervals for ~30 days.
 
 - data.zip
 
