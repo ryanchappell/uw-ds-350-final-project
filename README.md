@@ -40,4 +40,5 @@ This file was used during data retrieval to convert original JSON data to CSV.
 # Node Data Retriever
 
 The Node app that pulled the Reddit data can be found here:
+
 https://github.com/ryanchappell/uw-ds-350-reddit-retriever
