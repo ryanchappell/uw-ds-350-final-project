@@ -1,0 +1,18 @@
+2016-05-30 15:45:40 INFO::Starting up!
+2016-05-30 15:45:40 INFO::Running unit tests
+2016-05-30 15:45:40 INFO::Reading files from directory C:/Ryan-Chappell-final-project/data/front every 30/
+2016-05-30 15:45:44 INFO::files read: 1, nrow: 25000
+2016-05-30 15:45:47 INFO::files read: 2, nrow: 50000
+2016-05-30 15:45:47 INFO::Done reading
+2016-05-30 15:45:47 INFO::Aggregating the count of each subreddit on the front page by sample date (this may take a while).
+2016-05-30 15:45:56 INFO::Prepping data for horizontal bar plot of subreddit percentage on frontpage
+2016-05-30 15:45:57 INFO::Plot a horizontal bar chart showing the percentage of subreddits on the front page
+2016-05-30 15:45:58 INFO::Preparing data for ks test of sample against a Poisson distribution
+2016-05-30 15:45:58 INFO::Plotting emirical cumulative distribution function for the sample and the theoretical Poisson distribution
+2016-05-30 15:45:59 INFO::Plotting qqplot of the sample and the theoretical Poisson distribution
+2016-05-30 15:45:59 INFO::Preparing data for ks test of sample against a Poisson distribution
+2016-05-30 15:45:59 INFO::Creating histogram of k-s statistic from 500 theoretical Poisson distribution samples against our empirical data.
+2016-05-30 15:46:00 INFO::#### Summary for hypothesis /r/aww on the front page:
+#- H0 /r/aww composes less than 10% of the subreddits on the front page
+#- Ha /r/aww composes 10% or more of the subreddits on the front page
+Of 500 samples of the samples reddit front page (100 posts each sample) from 2016-05-13 10:36:01 to 2016-05-23 19:45:46, the aww subreddit makes up 4.62% of the subreddits on the front page. In order to confirm statistical significance of the sample, I tested it against a Poisson distribution. The p-value for /r/aww making up 4.62% of the subreddits on the front page is 0.00801431319973434. Therefore, we fail to reject the null hypothesis.

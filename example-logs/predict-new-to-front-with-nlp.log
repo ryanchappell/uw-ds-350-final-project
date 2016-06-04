@@ -1,0 +1,22 @@
+2016-05-30 15:48:27 INFO::Starting up!
+2016-05-30 15:48:27 INFO::Running unit tests
+2016-05-30 15:48:27 INFO::Starting up!
+2016-05-30 15:48:27 INFO::Running unit tests
+2016-05-30 15:48:27 INFO::start read npData
+2016-05-30 15:48:33 INFO::files read: 1, nrow: 25000
+2016-05-30 15:48:38 INFO::files read: 2, nrow: 50000
+2016-05-30 15:48:38 INFO::start read fpData
+2016-05-30 15:48:42 INFO::files read: 1, nrow: 25000
+2016-05-30 15:48:45 INFO::files read: 2, nrow: 50000
+2016-05-30 15:48:45 INFO::Cleaning and stemming posts (this may take a while)
+2016-05-30 15:48:58 INFO::Unique new page posts 49918
+2016-05-30 15:48:58 INFO::Creating review corpus
+2016-05-30 15:49:05 INFO::Creating review DTM (this may take a while)
+2016-05-30 15:49:37 INFO::Initial matrix size: 49918 x 22198; removing sparse terms
+2016-05-30 15:49:37 INFO::New matrix size: 49918 x 164
+2016-05-30 15:49:37 INFO::Converting DTM to matrix (this may take a while)
+2016-05-30 15:49:38 INFO::Get front page and new page id intersection
+2016-05-30 15:49:50 INFO::Total new page entries: 49918
+2016-05-30 15:49:50 INFO::Total new page entries that made it to the front page: 1057
+2016-05-30 15:49:51 INFO::Creating predictions (this may take a while)
+2016-05-30 15:50:44 INFO::Plotting confusion matrix using fourfoldplot
