@@ -26,7 +26,7 @@ This zip contains 4 csv files (two for front page and two for 30 page results). 
   - data/new every 30/*.csv
 
 ## Example Analysis Log Files
-example-logs/*.log
+- example-logs/*.log
 
 For reference; these are example log files emitted from each analysis file. They also give an idea of how long each script will run.
 
