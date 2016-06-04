@@ -22,7 +22,7 @@ These are utilities used by analysis files.
 
 
 ## Data Files
-This zip contains 4 csv files (two for front page and two for 30 page results). It is 135MB uncompressed (a slice of the original ~26GB data set). Unzipped, the folder structure looks like:
+This zip contains four csv files (two for the Reddit front page and two for the new page). It is 135MB uncompressed (a slice of the original ~26GB data set).
 
 - data.zip
 
