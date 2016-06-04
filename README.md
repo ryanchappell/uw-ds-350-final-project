@@ -3,7 +3,10 @@
 For my final project, I decided grab Reddit post data from the front page and on the new page and analyze the results.
 
 ## Project Write-up
-Ryan-Chappell-UW-DS-350-Data-Analysis-project.pdf
+
+- Ryan-Chappell-UW-DS-350-Data-Analysis-project.pdf
+
+The final write-up containing the project summary and data analyses.
 
 ## Analysis R Files
 - aww-hypothesis.R
