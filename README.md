@@ -1,5 +1,5 @@
 # UW Data Science 350 final project
-For my final project, I decided to grab Reddit posts from the front page and on the new page and apply some analyses to the results. 
+For my final project, I decided to grab Reddit posts from the front page and the new page and apply some analyses to the results. 
 
 ## Project Write-up
 The final write-up containing the project summary and data analyses.
